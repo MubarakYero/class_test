@@ -27,7 +27,7 @@ Outline the steps required to install and set up the project. You can include bo
 
 All of the above markdown priniples can be found in this [Link](https://www.markdownguide.org/basic-syntax/)
 
-You can contact me via my [email] (mailto:yeromubaaraak@gmail.com)
+You can contact me via my [email](mailto:yeromubaaraak@gmail.com)
 
 1. Clone the repository:
    ```bash
